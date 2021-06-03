@@ -1,5 +1,5 @@
   # 👋 Hello World, I'm Alice ! 
-  ### 
+  
 
 <!--
 **AliceMenzie/AliceMenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +32,11 @@ links [title](https://www.example.com)
  ✏️ Checkout my [Portfolio](https://suspicious-poincare-e71dea.netlify.app/) 
  
  😄 Pronouns: She/Her
+ 
+ ## 👩‍💻 My Current Tech Stack 
+ 
+ *  HTML
+ *  CSS 
+ *  Ruby
+ *  Rails
+ *  Javascript
