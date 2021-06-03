@@ -27,7 +27,7 @@ links [title](https://www.example.com)
  
  🥅 A personal goal of mine is to contribute to OpenSource 
  
- 📫  Get in contact Via [Linkedin]( www.linkedin.com/in/alice-menzie-b01011166)
+ 📫  Get in contact via [Linkedin]( www.linkedin.com/in/alice-menzie-b01011166)
  
  ✏️ Checkout my [Portfolio](https://suspicious-poincare-e71dea.netlify.app/) 
  
