@@ -15,11 +15,13 @@ Here are some ideas to get you started:
  📫 How to reach me: ...
  😄 Pronouns: ...
  ⚡ Fun fact: ...
-
+🎓 Diploma of IT @ [Coder Academy](https://www.coderacademy.edu.au/)
 links [title](https://www.example.com)
 -->
 
  💫 Aprising FullStack Developer and Current Student at CoderAcademy
+ 
+<!--  🎓 Diploma of IT @ [Coder Academy](https://www.coderacademy.edu.au/) -->
  
  🌱 I’m currently learning: **Gatsby** and **Graphql**
  
