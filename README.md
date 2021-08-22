@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 links [title](https://www.example.com)
 -->
 
- 💫 Aprising FullStack Developer and Current Student at CoderAcademy
+ 💫 Aprising FullStack Developer 
  
-<!--  🎓 Diploma of IT @ [Coder Academy](https://www.coderacademy.edu.au/) -->
+ 🎓 Diploma of IT @ [Coder Academy](https://www.coderacademy.edu.au/)
  
  🌱 I’m currently learning: **Gatsby** and **Graphql**
  
