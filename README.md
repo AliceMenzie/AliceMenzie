@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 links [title](https://www.example.com)
 -->
 
- 💫 Aprising FullStack Developer 
+ 💫 Asprising FullStack Developer 
  
  🎓 Diploma of IT @ [Coder Academy](https://www.coderacademy.edu.au/)
  
