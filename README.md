@@ -19,17 +19,20 @@ Here are some ideas to get you started:
 links [title](https://www.example.com)
 -->
 
- 💫 Asprising FullStack Developer 
+ 💫 **Web Developer** 💫 
  
  🎓 Diploma of IT @ [Coder Academy](https://www.coderacademy.edu.au/)
  
- 🌱 I’m currently learning: **Gatsby** and **Graphql**
+ 🌱 I’m currently learning: **React Query** and **Typescript**
  
-  ✏️ I'm currently working on a new [portfolio](https://www.alicemenzie.dev/) 
+  ✏️ Check out my [portfolio](https://www.alicemenzie.dev/) 
  
- 💻 My favourite project is my [Local-Marketplace](https://github.com/AliceMenzie/A2T2_marketplace)
+ 💻 My fist Full-Stack Project was made at Coder Academy: [Local-Marketplace](https://github.com/AliceMenzie/A2T2_marketplace)
  
- 🥅 A personal goal of mine is to contribute to OpenSource 
+ **2022 Goals** <br>
+ 🥅  Make accessibility and testing a priority in all my projects. <br>
+ 🥅  Improve my CSS styling and animations. <br>
+ 🥅  Start using typescript over javascript. <br>
  
  📫  Let's connect [Linkedin](https://www.linkedin.com/in/alice-menzie/)
  
