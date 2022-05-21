@@ -23,20 +23,13 @@ links [title](https://www.example.com)
  
  🎓 Diploma of IT @ [Coder Academy](https://www.coderacademy.edu.au/)
  
- 🌱 I’m currently learning: **React Query** and **Typescript**
- 
   ✏️ Check out my [portfolio](https://www.alicemenzie.dev/) 
  
- 💻 My fist Full-Stack Project was made at Coder Academy: [Local-Marketplace](https://github.com/AliceMenzie/A2T2_marketplace)
+ 💻 My first Full-Stack Project was made at Coder Academy: [Local-Marketplace](https://github.com/AliceMenzie/A2T2_marketplace)
  
- **2022 Goals** <br>
- 🥅  Make accessibility and testing a priority in all my projects. <br>
- 🥅  Improve my CSS styling and animations. <br>
- 🥅  Start using typescript over javascript. <br>
  
  📫  Let's connect [Linkedin](https://www.linkedin.com/in/alice-menzie/)
  
-
  
  😄 Pronouns: She/Her
  
