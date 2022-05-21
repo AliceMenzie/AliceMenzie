@@ -27,6 +27,7 @@ links [title](https://www.example.com)
  
  💻 My first Full-Stack Project was made at Coder Academy: [Local-Marketplace](https://github.com/AliceMenzie/A2T2_marketplace)
  
+ 🎨 I enjoy completing projects on [FEM](https://www.frontendmentor.io/profile/AliceMenzie)
  
  📫  Let's connect [Linkedin](https://www.linkedin.com/in/alice-menzie/)
  
